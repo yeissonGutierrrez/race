@@ -26,7 +26,7 @@ class Game{
 		this.debugPhysics = false;
 		this.fixedTimeStep = 1.0/60.0;
 		this.js = { forward:0, turn:0 };
-        this.assetsPath = "../assets/";
+        this.assetsPath = "assets/";
 		
 		this.messages = { 
 			text:[ 
